@@ -47,24 +47,6 @@ This project utilizes **Netflix's dataset**, including:
 
 ---
 
-## 🚀 Quick Start  
-
-1️⃣ **Clone this repository**:  
-```sh
-git clone https://github.com/Pranish45/Exploratory-Data-Analysis-NETFLIX-.git
-cd Exploratory-Data-Analysis-NETFLIX-
-```  
-2️⃣ **Install dependencies**:  
-```sh
-pip install -r requirements.txt
-```  
-3️⃣ **Run the analysis scripts**:  
-```sh
-jupyter notebook netflix_eda.ipynb
-```  
-
----
-
 ## 🤝 Contribute & Collaborate  
 
 💡 Found interesting insights? Have ideas to enhance the analysis? Feel free to **fork**, **open issues**, or submit a **pull request**! Let’s explore Netflix’s data together.  
